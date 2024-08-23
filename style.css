@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "GT Super";
+    src: url(fonts/gt-super-400-normal.woff);
+}
+
+@font-face {
+    font-family: sohne;
+    src: url(fonts/sohne-400-normal.woff);
+}
+*{
+    padding 0;
+    margin 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sohne;
+}
+
+.container{
+    max-width: 90%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+header{
+
+}
